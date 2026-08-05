@@ -1,5 +1,6 @@
 # AmeerDababoCongressionalProject24
-All source code for my Congressional App Challenge 24 project
+Contains all source code for my Congressional App Challenge 24 project.
+This project won second place in my congressional district and was recognize by United States Representative Kevin Mullin.
 
-Code is seperated by whether or not it runs on the client or on the server
+Code is separated by whether or not it runs on the client or on the server
 
